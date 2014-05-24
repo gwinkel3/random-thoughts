@@ -4,6 +4,7 @@ DateDiffer105.C			Date: 2014/ 5/07
 DateDiffer105.C is a C source-code driver demonstrating a way to count days calendar time.
 	This driver counts only days within one year, or at most days connecting two consecutive years.
 
+<<<<<<< HEAD
 Working location\
 	C:\Documents and Settings\Owner\room
 
@@ -20,3 +21,7 @@ git commit -m "georges edits to the file"
 git commit -m "dad branch creation"
 
 git push origin log
+=======
+
+Here is my edit -hamal
+>>>>>>> 9bad2a4f66da93455adf8c66751d80bfa4f692d5
